@@ -41,7 +41,7 @@ module.exports = {
         }
     },
 
-    // The resolver(method) for fetching a single posts
+    // The resolver(method) for fetching a single post
     post: async function({ postId }, req) {
 
         // const post = await Post.findByPk(postId);
