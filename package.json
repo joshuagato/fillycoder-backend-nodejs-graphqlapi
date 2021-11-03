@@ -45,6 +45,6 @@
     "socket.io": "^2.3.0",
     "stripe": "^8.0.1",
     "uuid-mongodb": "^2.1.2",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   }
 }
